@@ -180,7 +180,7 @@ script.onload = function() {
   cheatMenu.id = "cheatMenu";
   cheatMenu.className = "hidden";
   cheatMenu.innerHTML = `
-    <h1>Cabscer Prodigy Hack Menu X</h1>
+    <h1>fartingchocolate69</h1>
     <p>hi
 <div class="section">
   <h2>Character Enhancements</h2>
