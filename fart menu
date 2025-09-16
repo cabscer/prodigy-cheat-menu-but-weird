@@ -77,7 +77,7 @@ script.onload = function() {
     }
     #cheatMenu button {
       padding: 10px;
-      background: #400209;
+      background: #140000;
       border: none;
       color: #fff;
       cursor: pointer;
@@ -87,7 +87,7 @@ script.onload = function() {
       margin-bottom: 10px;
     }
     #cheatMenu button:hover {
-      background: #400209;
+      background: #140000;
     }
     #cheatMenu .description {
       font-size: 12px;
